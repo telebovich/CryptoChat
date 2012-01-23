@@ -1,0 +1,27 @@
+info it worked if it ends with ok
+verbose cli [ 'c:\\node\\\\node.exe',
+verbose cli   'c:\\node\\node_modules\\npm\\bin\\npm-cli.js',
+verbose cli   'install',
+verbose cli   'stylus',
+verbose cli   'jade' ]
+info using npm@1.1.0-alpha-6
+info using node@v0.6.5
+verbose config file C:\Users\Admin\.npmrc
+verbose config file c:\node\etc\npmrc
+verbose config file c:\node\node_modules\npm\npmrc
+ERR! prefix directory not found
+ERR! Error: ENOENT, no such file or directory 'C:\Users\Admin\AppData\Roaming\npm'
+ERR! Report this *entire* log at:
+ERR!     <http://github.com/isaacs/npm/issues>
+ERR! or email it to:
+ERR!     <npm-@googlegroups.com>
+ERR! 
+ERR! System Windows_NT 6.1.7601
+ERR! command "c:\\node\\\\node.exe" "c:\\node\\node_modules\\npm\\bin\\npm-cli.js" "install" "stylus" "jade"
+ERR! cwd C:\Users\Admin\Documents\My Web Sites\Node.js Site
+ERR! node -v v0.6.5
+ERR! npm -v 1.1.0-alpha-6
+ERR! path C:\Users\Admin\AppData\Roaming\npm
+ERR! code ENOENT
+ERR! message ENOENT, no such file or directory 'C:\Users\Admin\AppData\Roaming\npm'
+verbose exit [ 1, true ]

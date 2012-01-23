@@ -1,0 +1,263 @@
+[19.01.2012 14:06:30]	ZooApplication Asynchronous IO Error:
+<h2>JobHttp:</h2>
+url        :/favicon.ico
+requestId  :4
+state	   :BACKEND_READ_COMPLETE
+postMode   :POST_MODE_BUFFER
+
+[19.01.2012 15:00:55]	Restarting the application due to changes to file 'articleprovider-memory.js'
+[19.01.2012 15:27:40]	ForceShutdown
+[19.01.2012 15:27:40]	TransportError: <h2>Can't connect to a child process.</h2>
+
+To enable logging please specify ERROR LOG variable <a href="http://www.helicontech.com/zoo/module.htm">read more</a><h2>Application Configuration is:</h2>
+
+appName                        nodejs.project.x86
+appFullPath                    C:\node\node.exe
+appDirectory                   C:\Users\Admin\Documents\My Web Sites\Node.js Site
+appArguments                   "C:\Users\Admin\Documents\My Web Sites\Node.js Site\server.js"
+transportName                  NamedPipe
+protocol                       http
+scriptProcessor                nodejs.http
+errorLog                       
+postCacheDir                   
+watchFileChangesMask           *.js
+host                           127.0.0.1
+port                           \\.\pipe\zoo_pipe_1c0f60a0-d902-4f2a-87c7-2e75aa890cfe
+minInstances                   1
+maxInstances                   1
+minRequestsPerWorker           3
+maxRequestsPerWorker           15
+portLower                      49152
+portUpper                      65535
+workerRequestTimeout           30
+timeLimit                      0
+memoryLimit                    0
+gracefulShutdownTimeout        0
+
+<h3>Enviroment Variables</h3>
+
+APPL_PHYSICAL_PATH             C:\Users\Admin\Documents\My Web Sites\Node.js Site
+APPL_VIRTUAL_PATH              
+APP_WORKER                     C:\Users\Admin\Documents\My Web Sites\Node.js Site\server.js
+HOST                           127.0.0.1
+NODE_PATH                      C:\Users\Admin\Documents\My Web Sites\Node.js Site\node_modules
+PORT                           \\.\pipe\zoo_pipe_1c0f60a0-d902-4f2a-87c7-2e75aa890cfe
+WATCH_FILE_CHANGES_MASK        *.js
+
+
+			
+[19.01.2012 15:27:40]	ForceShutdown
+[19.01.2012 15:27:41]	TransportError: <h2>Can't connect to a child process.</h2>
+
+To enable logging please specify ERROR LOG variable <a href="http://www.helicontech.com/zoo/module.htm">read more</a><h2>Application Configuration is:</h2>
+
+appName                        nodejs.project.x86
+appFullPath                    C:\node\node.exe
+appDirectory                   C:\Users\Admin\Documents\My Web Sites\Node.js Site
+appArguments                   "C:\Users\Admin\Documents\My Web Sites\Node.js Site\server.js"
+transportName                  NamedPipe
+protocol                       http
+scriptProcessor                nodejs.http
+errorLog                       
+postCacheDir                   
+watchFileChangesMask           *.js
+host                           127.0.0.1
+port                           \\.\pipe\zoo_pipe_a34c06a3-237f-460f-9137-5c0309cbf65d
+minInstances                   1
+maxInstances                   1
+minRequestsPerWorker           3
+maxRequestsPerWorker           15
+portLower                      49152
+portUpper                      65535
+workerRequestTimeout           30
+timeLimit                      0
+memoryLimit                    0
+gracefulShutdownTimeout        0
+
+<h3>Enviroment Variables</h3>
+
+APPL_PHYSICAL_PATH             C:\Users\Admin\Documents\My Web Sites\Node.js Site
+APPL_VIRTUAL_PATH              
+APP_WORKER                     C:\Users\Admin\Documents\My Web Sites\Node.js Site\server.js
+HOST                           127.0.0.1
+NODE_PATH                      C:\Users\Admin\Documents\My Web Sites\Node.js Site\node_modules
+PORT                           \\.\pipe\zoo_pipe_a34c06a3-237f-460f-9137-5c0309cbf65d
+WATCH_FILE_CHANGES_MASK        *.js
+
+
+			
+[19.01.2012 15:27:50]	Create 2-nd worker
+[19.01.2012 15:27:51]	ForceShutdown
+[19.01.2012 15:28:01]	Create 2-nd worker
+[19.01.2012 15:28:01]	ForceShutdown
+[19.01.2012 15:28:11]	Create 2-nd worker
+[19.01.2012 15:28:11]	ForceShutdown
+[19.01.2012 15:28:21]	Create 2-nd worker
+[19.01.2012 15:28:21]	ForceShutdown
+[19.01.2012 15:28:31]	Create 2-nd worker
+[19.01.2012 15:28:31]	ForceShutdown
+[19.01.2012 15:28:41]	Create 2-nd worker
+[19.01.2012 15:28:41]	ForceShutdown
+[19.01.2012 15:28:51]	Restarting the application due to changes to file 'server.js'
+[19.01.2012 15:28:51]	ForceShutdown
+[19.01.2012 15:28:51]	TransportError: <h2>Can't connect to a child process.</h2>
+
+To enable logging please specify ERROR LOG variable <a href="http://www.helicontech.com/zoo/module.htm">read more</a><h2>Application Configuration is:</h2>
+
+appName                        nodejs.project.x86
+appFullPath                    C:\node\node.exe
+appDirectory                   C:\Users\Admin\Documents\My Web Sites\Node.js Site
+appArguments                   "C:\Users\Admin\Documents\My Web Sites\Node.js Site\server.js"
+transportName                  NamedPipe
+protocol                       http
+scriptProcessor                nodejs.http
+errorLog                       
+postCacheDir                   
+watchFileChangesMask           *.js
+host                           127.0.0.1
+port                           \\.\pipe\zoo_pipe_9f3ef3c8-6700-4d66-bace-ab61ff2bac06
+minInstances                   1
+maxInstances                   1
+minRequestsPerWorker           3
+maxRequestsPerWorker           15
+portLower                      49152
+portUpper                      65535
+workerRequestTimeout           30
+timeLimit                      0
+memoryLimit                    0
+gracefulShutdownTimeout        0
+
+<h3>Enviroment Variables</h3>
+
+APPL_PHYSICAL_PATH             C:\Users\Admin\Documents\My Web Sites\Node.js Site
+APPL_VIRTUAL_PATH              
+APP_WORKER                     C:\Users\Admin\Documents\My Web Sites\Node.js Site\server.js
+HOST                           127.0.0.1
+NODE_PATH                      C:\Users\Admin\Documents\My Web Sites\Node.js Site\node_modules
+PORT                           \\.\pipe\zoo_pipe_9f3ef3c8-6700-4d66-bace-ab61ff2bac06
+WATCH_FILE_CHANGES_MASK        *.js
+
+
+			
+[19.01.2012 15:28:52]	ForceShutdown
+[19.01.2012 15:28:52]	TransportError: <h2>Can't connect to a child process.</h2>
+
+To enable logging please specify ERROR LOG variable <a href="http://www.helicontech.com/zoo/module.htm">read more</a><h2>Application Configuration is:</h2>
+
+appName                        nodejs.project.x86
+appFullPath                    C:\node\node.exe
+appDirectory                   C:\Users\Admin\Documents\My Web Sites\Node.js Site
+appArguments                   "C:\Users\Admin\Documents\My Web Sites\Node.js Site\server.js"
+transportName                  NamedPipe
+protocol                       http
+scriptProcessor                nodejs.http
+errorLog                       
+postCacheDir                   
+watchFileChangesMask           *.js
+host                           127.0.0.1
+port                           \\.\pipe\zoo_pipe_72744313-fa39-4dac-ab9e-47d7a4c69fbd
+minInstances                   1
+maxInstances                   1
+minRequestsPerWorker           3
+maxRequestsPerWorker           15
+portLower                      49152
+portUpper                      65535
+workerRequestTimeout           30
+timeLimit                      0
+memoryLimit                    0
+gracefulShutdownTimeout        0
+
+<h3>Enviroment Variables</h3>
+
+APPL_PHYSICAL_PATH             C:\Users\Admin\Documents\My Web Sites\Node.js Site
+APPL_VIRTUAL_PATH              
+APP_WORKER                     C:\Users\Admin\Documents\My Web Sites\Node.js Site\server.js
+HOST                           127.0.0.1
+NODE_PATH                      C:\Users\Admin\Documents\My Web Sites\Node.js Site\node_modules
+PORT                           \\.\pipe\zoo_pipe_72744313-fa39-4dac-ab9e-47d7a4c69fbd
+WATCH_FILE_CHANGES_MASK        *.js
+
+
+			
+[19.01.2012 15:29:02]	Create 2-nd worker
+[19.01.2012 15:29:02]	ForceShutdown
+[19.01.2012 15:29:12]	Create 2-nd worker
+[19.01.2012 15:29:12]	ForceShutdown
+[19.01.2012 15:29:22]	Create 2-nd worker
+[19.01.2012 15:29:22]	ForceShutdown
+[19.01.2012 15:29:32]	Create 2-nd worker
+[19.01.2012 15:29:32]	ForceShutdown
+[19.01.2012 15:29:42]	Create 2-nd worker
+[19.01.2012 15:29:42]	ForceShutdown
+[19.01.2012 15:29:52]	Create 2-nd worker
+[19.01.2012 15:29:52]	ForceShutdown
+[19.01.2012 15:30:02]	Create 2-nd worker
+[19.01.2012 15:30:02]	ForceShutdown
+[19.01.2012 15:30:12]	Create 2-nd worker
+[19.01.2012 15:30:12]	ForceShutdown
+[19.01.2012 15:30:22]	Create 2-nd worker
+[19.01.2012 15:30:22]	ForceShutdown
+[19.01.2012 15:30:32]	Create 2-nd worker
+[19.01.2012 15:30:32]	ForceShutdown
+[19.01.2012 15:30:42]	Create 2-nd worker
+[19.01.2012 15:30:43]	ForceShutdown
+[19.01.2012 15:30:53]	Create 2-nd worker
+[19.01.2012 15:30:53]	ForceShutdown
+[19.01.2012 15:31:03]	Create 2-nd worker
+[19.01.2012 15:31:03]	ForceShutdown
+[19.01.2012 15:31:13]	Create 2-nd worker
+[19.01.2012 15:31:13]	ForceShutdown
+[19.01.2012 15:31:23]	Create 2-nd worker
+[19.01.2012 15:31:23]	ForceShutdown
+[19.01.2012 15:31:33]	Create 2-nd worker
+[19.01.2012 15:31:33]	ForceShutdown
+[19.01.2012 15:31:43]	Create 2-nd worker
+[19.01.2012 15:31:43]	ForceShutdown
+[19.01.2012 15:31:53]	Create 2-nd worker
+[19.01.2012 15:31:53]	ForceShutdown
+[19.01.2012 15:32:02]	Restarting the application due to changes to file 'server.js'
+[19.01.2012 15:34:04]	ZooApplication Asynchronous IO Error:
+<h2>JobHttp:</h2>
+url        :/favicon.ico
+requestId  :2
+state	   :BACKEND_READ_COMPLETE
+postMode   :POST_MODE_BUFFER
+
+[19.01.2012 15:34:05]	Restarting the application due to changes to file 'server.js'
+[19.01.2012 15:36:08]	ZooApplication Asynchronous IO Error:
+<h2>JobHttp:</h2>
+url        :/favicon.ico
+requestId  :2
+state	   :BACKEND_READ_COMPLETE
+postMode   :POST_MODE_BUFFER
+
+[19.01.2012 15:55:43]	ZooApplication Asynchronous IO Error:
+<h2>JobHttp:</h2>
+url        :/
+requestId  :1
+state	   :BACKEND_READ_COMPLETE
+postMode   :POST_MODE_BUFFER
+
+[19.01.2012 15:57:36]	Restarting the application due to changes to file 'server.js'
+[19.01.2012 15:57:43]	ZooApplication Asynchronous IO Error:
+<h2>JobHttp:</h2>
+url        :/favicon.ico
+requestId  :5
+state	   :BACKEND_READ_COMPLETE
+postMode   :POST_MODE_BUFFER
+
+[19.01.2012 15:58:44]	Restarting the application due to changes to file 'server.js'
+[23.01.2012 13:34:36]	ZooApplication Asynchronous IO Error:
+<h2>JobHttp:</h2>
+url        :/
+requestId  :1
+state	   :BACKEND_READ_COMPLETE
+postMode   :POST_MODE_BUFFER
+
+[23.01.2012 13:34:43]	ZooApplication Asynchronous IO Error:
+<h2>JobHttp:</h2>
+url        :/
+requestId  :2
+state	   :BACKEND_READ_COMPLETE
+postMode   :POST_MODE_BUFFER
+
