@@ -1,9 +1,9 @@
 info it worked if it ends with ok
 verbose cli [ 'c:\\node\\\\node.exe',
 verbose cli   'c:\\node\\node_modules\\npm\\bin\\npm-cli.js',
+verbose cli   '-d',
 verbose cli   'install',
-verbose cli   'stylus',
-verbose cli   'jade' ]
+verbose cli   'mongodb' ]
 info using npm@1.1.0-alpha-6
 info using node@v0.6.5
 verbose config file C:\Users\Admin\.npmrc
@@ -17,8 +17,8 @@ ERR! or email it to:
 ERR!     <npm-@googlegroups.com>
 ERR! 
 ERR! System Windows_NT 6.1.7601
-ERR! command "c:\\node\\\\node.exe" "c:\\node\\node_modules\\npm\\bin\\npm-cli.js" "install" "stylus" "jade"
-ERR! cwd C:\Users\Admin\Documents\My Web Sites\Node.js Site
+ERR! command "c:\\node\\\\node.exe" "c:\\node\\node_modules\\npm\\bin\\npm-cli.js" "-d" "install" "mongodb"
+ERR! cwd C:\Users\Admin\Documents\Visual Studio 2010\Projects\CryptoChat\CryptoChat
 ERR! node -v v0.6.5
 ERR! npm -v 1.1.0-alpha-6
 ERR! path C:\Users\Admin\AppData\Roaming\npm
